@@ -286,4 +286,11 @@ paket-files/
 *.sln.iml
 
 
-*.suo
+# my
+Library/CurrentLayout*
+Library/EditorUserSettings.asset
+Library/InspectorExpandedItems.asset
+Library/assetDatabase3
+Library/expandedItems
+Library/metadata*
+Library/shadercompiler*
